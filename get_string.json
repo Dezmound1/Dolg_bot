@@ -1,0 +1,14 @@
+{
+    "1": {
+        "subject": "ООП",
+        "open": "False"
+    },
+    "2": {
+        "subject": "Физика",
+        "open": "False"
+    },
+    "3": {
+        "subject": "1C",
+        "open": "True"
+    }
+}
